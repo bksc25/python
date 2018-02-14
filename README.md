@@ -1,35 +1,47 @@
-# python
-You’re
-editing a
-file
-in a 
-project
-you 
-don’t
-have write
-access to. 
-Submitting
-a 
-change 
-to 
-this 
-file 
-will 
-write 
-it 
-to 
-a 
-new
-branch 
-in 
-your 
-fork 
-bksreechandana/python, 
-so 
-you 
-can
-send 
-a 
-pull 
-request.
-iknkd
+# Facial recognition an added security level to mobiles and laptops
+This project aims to add a rich security measure to the most commonly used devices(Mobiles and laptops).The methodology will be bottom- up approach, we will implement core python modules for gathering known faces, storage management and recognition against new face. Then we would be integrating those modules with Kivy cross platform python framework.
+Advantages:
+-Easy authentication.
+-Increased security.
+-Reduces the need to remember complex passwords.
+Outcome:
+-A platform for facial authentication in Android, ios, Windows, Linux and Mac devices.
+-Image log of intruders.
+-Automation of start up scripts.
+
+## Getting Started
+
+
+### Prerequisites
+Requirements to develop platform
+   Hardware: A camera for testing,250MB RAM,10GB empty space.
+   Software: Python3,OpenCV,Kivy.
+Requirements to use platform
+   Hardware: A camera of minimum 2MP connected to target device.
+   
+## Built With
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Built With
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
